@@ -1,5 +1,5 @@
 {
-  "name": "my-website",
+  "name": "contentsmart-blog",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "2.4.0",
+    "@docusaurus/plugin-content-blog": "^2.4.0",
     "@docusaurus/preset-classic": "2.4.0",
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.2.1",
@@ -23,7 +24,8 @@
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "2.4.0"
+    "@docusaurus/module-type-aliases": "2.4.0",
+    "eslint-plugin-react-hooks": "^4.6.0"
   },
   "browserslist": {
     "production": [
