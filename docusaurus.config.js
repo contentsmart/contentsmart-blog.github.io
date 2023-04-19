@@ -8,14 +8,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'ContentSmart', // title of website
  // tagline: 'Plan Develop Deploy Content', // used in meta data
-  url: 'http://localhost:3000/', // url where websited is hosted
+  url: 'https://contentsmart.io', // url where websited is hosted
   baseUrl: '/', // path where website is available
   favicon: 'img/favicon.ico', // path to favicon with respect to static dir
   organizationName: 'ContentSmart IO', // github user name 
   projectName: 'contentsmart-blog',// project name i.e repo name of project
 
   // Set the production url of your site here
-  //url: 'http://https://contentsmart.io',
+  //url: 'https://contentsmart.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   //baseUrl: '/',

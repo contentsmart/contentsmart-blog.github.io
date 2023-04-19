@@ -1,17 +1,17 @@
 ---
 slug: welcome
-title: UX and Content, an Intro
+title: Tech Doc and UX
 authors: toni
 tags: [content, ux, contentUX, intelligentContent, doc]
 ---
 
-Before we explore the role of the user experience (UX) in content, let's define what UX is.
+Before we explore the role of user experience (UX) in technical documentation, such as API references and end-user doc, let's define what UX is.
 
 UX, to me, is both a craft performed by subject-matter experts commonly referred to in the field as "UX designers," as well as a blend of several disciplines interested in all aspects of the user-product interaction. 
 
 The breadth of UX spans the <em>how</em>, <em>who</em>, <em>what</em>, <em>when</em>, <em>where</em>, and <em>why</em> as it relates to the actual human interacting with the product — <em>how</em> is the user obtaining and then using the product, <em>who</em> actually are those users (demographics), <em>when</em> do the users use the product, <em>where</em> are the users navigating within the product and in <em>what</em> sequence are their actions, and <em>why</em> are the users interacting with the product the way that they do. 
 
-By gaining an in-depth understanding of the user experience, we are better positioned to develop a product that is actually useful once out in the wild.
+By gaining an in-depth understanding of the user experience, we are better positioned to develop a content product that is actually useful once out in the wild.
 
  When compared with related disciplines, such as web design, electrical engineering, and programming, instead of just making the product actually function, you know, work, UX is concerned with understanding and meeting user needs. It's a priority thing.
 
